@@ -1,8 +1,5 @@
 # HNFlowingAnimation
 This library is used to show liquid's effect while transmitting pageViewController. Compatible with iOS 7,8,9
-HNFlowingAnimation
-A UIViewController Category to display a ViewController as a popup with different transition effects.
-Written by Nguyen Duc Hoang, January 2016.
 
 ##Installation
 
