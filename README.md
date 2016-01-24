@@ -11,7 +11,7 @@ Open in Xcode7.2 Objective C project. Also you need to add the QuartzCore-Framew
 ##Usage
 
 First you have to import the Library:
-#import "HNFlowing.h"
+\#import "HNFlowing.h"
 And delegation:
 @interface YourViewController<HNFlowingDelegate> {
 ...
@@ -36,7 +36,7 @@ self.hnFlowing.bottomView = self.bottomView;
 self.numberOfTabs = self.childViewControllers.count;
 
 Delegate in views' transition
-#pragma mark - HNFlowingDelegate
+\#pragma mark - HNFlowingDelegate
 -(void)flowingEndAnimation:(HNFlowing *)hnFlowing edge:(UIRectEdge)edge {
     
 }
@@ -81,7 +81,7 @@ You can open the HNFlowingAnimationDemo demo project in Xcode and run it on your
 
 Feel free to collaborate with ideas, issues and/or pull requests.
 Anything relating to this project and hiring me outsourcing work, please contact me:
-Nguyen Duc Hoang. Skype: sunlight3d@icloud.com, Tel: 0084-0964896239
+Nguyen Duc Hoang. Skype: sunlight3d@icloud.com
 
 ##License
 
