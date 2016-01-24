@@ -1,0 +1,27 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#define DEBUG_MODE 1
+
+#ifdef DEBUG_MODE
+#define DLog( s, ... ) NSLog( @"<%p %@:(%d)> %@", self, [[NSString stringWithUTF8String:__FILE__] lastPathComponent], __LINE__, [NSString stringWithFormat:(s), ##__VA_ARGS__] )
+#else
+#define DLog( s, ... )
+#endif
+
+#define MAS_SHORTHAND
+#ifdef __OBJC__
+    @import UIKit;
+    #import <MobileCoreServices/MobileCoreServices.h>
+    @import Foundation;
+    #import "AppDelegate.h"
+#endif

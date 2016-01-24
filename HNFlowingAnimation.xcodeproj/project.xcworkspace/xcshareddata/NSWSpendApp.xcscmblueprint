@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B6612BDFF83E9A7DFBC7027D22C3814204D0EAEA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B5FE24DEE037279F1CD8FAD319051C9082840A2C" : 0,
+    "B6612BDFF83E9A7DFBC7027D22C3814204D0EAEA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9C32DB67-201A-4501-A3A4-147D4F0FAB3E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B5FE24DEE037279F1CD8FAD319051C9082840A2C" : "",
+    "B6612BDFF83E9A7DFBC7027D22C3814204D0EAEA" : "HNFlowingAnimation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HNFlowingAnimation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HNFlowingAnimation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/sunlight5d\/vinsoft.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5FE24DEE037279F1CD8FAD319051C9082840A2C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/appiwork\/NSWSpend-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B6612BDFF83E9A7DFBC7027D22C3814204D0EAEA"
+    }
+  ]
+}
