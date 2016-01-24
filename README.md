@@ -80,7 +80,7 @@ You can open the HNFlowingAnimationDemo demo project in Xcode and run it on your
 ##Collaboration
 
 Feel free to collaborate with ideas, issues and/or pull requests.
-Anything relating to this project and hiring me outsourcing work, please contact me:
+Anything relating to this project and hiring me for outsourcing work, please contact me:
 Nguyen Duc Hoang. Skype: sunlight3d@icloud.com
 
 ##License
